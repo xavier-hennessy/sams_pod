@@ -1,4 +1,4 @@
-# Website for a podcast without a name
+# The Dream Machine Website
 Will start off its life as a static page serving yt links. Very much a work in progess and more of a learning exercise than anything else.
 
 ### Some things to consider 
@@ -11,12 +11,12 @@ Will start off its life as a static page serving yt links. Very much a work in p
     - [Vercel](https://vercel.com/)
 
 ### Things we need from podcasters
-- name of pod
-- theme
-- any kind of logo 
-- links to:
-    - where its being uploaded
-    - social media 
+- [x] name of pod
+- [] theme
+- [] any kind of logo 
+- [] links to:
+    - [] where its being uploaded
+    - [] social media 
 
 ### Rough layout 
 - Header
