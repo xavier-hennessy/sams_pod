@@ -1,4 +1,4 @@
-# The Dream Machine website
+# The Dream Machine Website
 Will start off its life as a static page serving yt links. Very much a work in progess and more of a learning exercise than anything else.
 
 ### Some things to consider 
